@@ -1,0 +1,59 @@
+
+  AutoTweetNG - Facebook Authorization App
+  ========================================
+  
+  Installation - STEP BY STEP TUTORIAL
+  ------------------------------------
+  
+  How to AutoTweet from Your Own Facebook App
+  *******************************************
+  http://www.extly.com/how-to-autotweet-from-your-own-facebook-app.html#/prerequisites
+	
+  1. Prerequisites
+
+    - AutoTweetNG Free (*) or PRO v6
+      http://www.extly.com/autotweet-ng-pro.html
+    - A Facebook account
+    - A site with SSL support (E.g. Facebook's Heroku site)
+
+ 
+	* Previous tutorial
+	How to AutoTweet from Joomla in 5 minutes
+	http://www.extly.com/how-to-autotweet-in-5-minutes-from-joomla.html
+
+	About SSL & Facebook
+    http://www.sourcecoast.com/jfbconnect/docs/common-support-questions/ssl-certificates-for-facebook
+    
+   2. Let's create a Facebook App
+  
+   https://developers.facebook.com/apps
+   Create New App
+   
+   3. Now, you have your own:
+   
+   App ID
+   App Secret
+   
+   4. From AutoTweetNG, unzip facebook_server_auth_app.zip
+      Copy the files to your hosting,
+      Manually, verify the Facebook App site,
+      For example: https://app.extly.com/Facebook-App/ 	
+  
+   5. Please, fill App Id, App Secret, and Canvas Page; and 
+   continue with the authorization steps (check 1º tutorial).
+   
+  ------------------------------------------------------------------------
+  author    Prieco S.A. <support@extly.com>
+  copyright Copyright (C) 2007 - 2012 Prieco, S.A. All rights reserved.
+  @license - http://http://www.gnu.org/licenses/gpl-3.0.html GNU/GPL
+  Technical Support:  http://support.extly.com
+
+  If you have any question, please, don't hesitate to contact us. 
+  Technical Support:  http://support.extly.com
+
+
+
+We are passionately committed to your success.
+Support Team
+Extly.com - Extensions
+Support: http://support.extly.com Twitter @extly | Facebook facebook.com/extly
